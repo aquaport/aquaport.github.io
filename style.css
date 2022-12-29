@@ -8,11 +8,11 @@ body{
 }
 @font-face {
     font-family: ChivoMonoBold;
-    src: url(/fonts/ChivoMono-Bold.ttf);
+    src: url("ChivoMono-Bold.ttf");
 }
 @font-face {
     font-family: ChivoMonoReg;
-    src: url(/fonts/ChivoMono-Regular.ttf);
+    src: url("ChivoMono-Regular.ttf");
 }
 p , h2{
     font-family: ChivoMonoReg;
